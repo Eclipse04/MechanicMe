@@ -592,7 +592,7 @@ ul.btn li:last-child {
 }
 
 .about .about_box {
-     padding: 166px 153px 30px 153px;
+     padding: 210px 153px 190px 200px;
 }
 
 .about .titlepage h2 {
@@ -609,8 +609,8 @@ ul.btn li:last-child {
 .about .about_box h3 {
      color: #000;
      font-size: 27px;
-     line-height: 30px;
-     font-weight: 500;
+     line-height: 50px;
+     font-weight: 600;
 }
 
 .about .about_box p {
