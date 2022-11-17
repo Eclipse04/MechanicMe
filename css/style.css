@@ -299,7 +299,7 @@ ul.btn li:last-child {
 
 .login_btn a:hover {
      color: #fff !important;
-     background: #0808ff;
+     background: #9A6AAD;
 }
 
 
@@ -366,7 +366,7 @@ ul.btn li:last-child {
      width: 100%;
      padding: 20px 30px;
      border-bottom: #000 solid 20px;
-     background-image: linear-gradient(to bottom, #1559b7, #4f7af3);
+     background-image: linear-gradient(to bottom, #5E9ED5, #9A6AAD);
 }
 
 .logo a {
