@@ -47,6 +47,7 @@ body {
      font-weight: normal;
 }
 
+
 a {
      color: #1f1f1f;
      text-decoration: none !important;
@@ -381,7 +382,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: url(../images/banner.png);
      background-repeat: no-repeat;
      min-height: 700px;
      background-size: 100% 100%;
@@ -527,7 +528,7 @@ ul.btn li:last-child {
 }
 
 .blu {
-     color: #0808ff;
+     color: #5E9ED5;
 }
 
 .read_more {
